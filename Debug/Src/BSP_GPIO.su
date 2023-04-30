@@ -1,0 +1,7 @@
+../Src/BSP_GPIO.c:11:9:GPIOInit	16	static
+../Src/BSP_GPIO.c:23:9:GPIOAInit	16	static
+../Src/BSP_GPIO.c:35:9:GPIOInitinput	24	static
+../Src/BSP_GPIO.c:44:9:GPIOInitoutput	24	static
+../Src/BSP_GPIO.c:56:9:GPIOInitAF	24	static
+../Src/BSP_GPIO.c:76:9:GPIOSetpin	16	static
+../Src/BSP_GPIO.c:81:9:GPIOResetpin	16	static

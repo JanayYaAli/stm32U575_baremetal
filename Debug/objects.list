@@ -1,0 +1,6 @@
+"./Src/BSP_GPIO.o"
+"./Src/BSP_USART.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32u575zitxq.o"
